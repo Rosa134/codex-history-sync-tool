@@ -1,0 +1,21 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.bak
+*.lnk
+Thumbs.db
+.DS_Store
+
+# Build artifacts
+build/
+dist/
+*.spec
+
+# Local Codex data
+.codex/
+history_sync_backups/
+
+# Temp/helper scripts
+_pyi_runner.py
+build_exe.py
